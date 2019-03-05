@@ -3,5 +3,6 @@ while(true){
 if(a < 7){
   system.out.println(a);
   a++;
+  a--; //대규
 }
 }
